@@ -1,1 +1,1 @@
-# Happy_Whale_Kaggle
+# Happy Whale Kaggle Competition
